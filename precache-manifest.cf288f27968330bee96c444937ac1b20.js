@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9874b2d1a27144cbdff5cb18ea8f454",
+    "revision": "c97cd530f3127bf214a028afc7bd9755",
     "url": "/starmap/index.html"
   },
   {
-    "revision": "ff3a8df32dd0a3a7dc7c",
+    "revision": "245c19829358b6b7044e",
     "url": "/starmap/static/css/main.a414de92.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starmap/static/js/2.5fb841ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff3a8df32dd0a3a7dc7c",
-    "url": "/starmap/static/js/main.6976c7ec.chunk.js"
+    "revision": "245c19829358b6b7044e",
+    "url": "/starmap/static/js/main.98bf5894.chunk.js"
   },
   {
     "revision": "035fc2681acdaf25b228",
