@@ -1,0 +1,21 @@
+#root {
+		display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.navbar-item img {
+	max-height: 4rem!important;
+	height: 75px;
+}
+
+.response {
+	margin-top: 1rem;
+	margin-bottom: 2rem;
+	color: rgb(236, 4, 62);
+}
+
+.loading:after {
+  content: ' .';
+	animation: dots 1s steps(5, end) infinite;
+}
