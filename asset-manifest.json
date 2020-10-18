@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/starmap/static/css/main.a414de92.chunk.css",
-    "main.js": "/starmap/static/js/main.c065d32c.chunk.js",
-    "main.js.map": "/starmap/static/js/main.c065d32c.chunk.js.map",
+    "main.js": "/starmap/static/js/main.f7f991f2.chunk.js",
+    "main.js.map": "/starmap/static/js/main.f7f991f2.chunk.js.map",
     "runtime-main.js": "/starmap/static/js/runtime-main.a1d92969.js",
     "runtime-main.js.map": "/starmap/static/js/runtime-main.a1d92969.js.map",
-    "static/js/2.5178166c.chunk.js": "/starmap/static/js/2.5178166c.chunk.js",
-    "static/js/2.5178166c.chunk.js.map": "/starmap/static/js/2.5178166c.chunk.js.map",
+    "static/js/2.5ba22576.chunk.js": "/starmap/static/js/2.5ba22576.chunk.js",
+    "static/js/2.5ba22576.chunk.js.map": "/starmap/static/js/2.5ba22576.chunk.js.map",
     "index.html": "/starmap/index.html",
-    "precache-manifest.3f4b8da73e1cfd4996c8c63d72ec9c20.js": "/starmap/precache-manifest.3f4b8da73e1cfd4996c8c63d72ec9c20.js",
+    "precache-manifest.9e059325359885d73a65dedc330e9c33.js": "/starmap/precache-manifest.9e059325359885d73a65dedc330e9c33.js",
     "service-worker.js": "/starmap/service-worker.js",
     "static/css/main.a414de92.chunk.css.map": "/starmap/static/css/main.a414de92.chunk.css.map",
-    "static/js/2.5178166c.chunk.js.LICENSE.txt": "/starmap/static/js/2.5178166c.chunk.js.LICENSE.txt",
+    "static/js/2.5ba22576.chunk.js.LICENSE.txt": "/starmap/static/js/2.5ba22576.chunk.js.LICENSE.txt",
     "static/media/machine-learning.svg": "/starmap/static/media/machine-learning.f07e5eab.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a1d92969.js",
-    "static/js/2.5178166c.chunk.js",
+    "static/js/2.5ba22576.chunk.js",
     "static/css/main.a414de92.chunk.css",
-    "static/js/main.c065d32c.chunk.js"
+    "static/js/main.f7f991f2.chunk.js"
   ]
 }
