@@ -1,5 +1,6 @@
 import React from 'react'
 import Layout from 'layout/Layout'
+import SiteConfig from 'constants/SiteConfig'
 
 type S = {
 	lat: number
@@ -45,7 +46,7 @@ const Home = () => {
 	}
 
 	const makeAPIRequest = async (query_string: string) => {
-		let api_endpoint = "https://starmap-generator.ew.r.appspot.com" 
+		let api_endpoint = SiteConfig.apiURL 
 		let resource_url = api_endpoint + "?" +query_string
 		
 		let server_response = await fetch(resource_url)

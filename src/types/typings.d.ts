@@ -1,6 +1,7 @@
 interface Config {
 	siteTitle: string
 	siteTitleShort: string
+	apiURL: stirng
 	siteTitleAlt: string
 	siteLogo: string
 	siteUrl: string

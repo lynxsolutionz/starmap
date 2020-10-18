@@ -1,5 +1,6 @@
 {
-  "name": "starmap-generator",
+  "homepage": "https://lynxsolutionz.github.io/starmap",
+  "name": "starmap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,14 +11,16 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^3.4.0"
+    "react-scripts": "^3.4.0",
+    "save-dev": "0.0.1-security"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -41,6 +44,5 @@
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.20.0",
     "typescript": "^3.9.3"
-    
   }
 }
